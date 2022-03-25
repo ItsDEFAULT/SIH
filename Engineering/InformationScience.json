@@ -4,12 +4,14 @@
 		"https://www.youtube.com/watch?v=M576WGiDBdQ",
 		"https://www.youtube.com/watch?v=coQ5dg8wM2o"
 	],
-	"chapter1": {
-		"name": "Solidity",
-		"links": [
-			"https://www.youtube.com/watch?v=ipwxYa-F1uY",
-			"https://www.youtube.com/watch?v=kdvVwGrV7ec"
-		],
-		"description": "Introduction to Solidity, what is solidity?, where is solidity used?"
-	}
+	"chapters": [
+		{
+			"name": "Solidity",
+			"links": [
+				"https://www.youtube.com/watch?v=ipwxYa-F1uY",
+				"https://www.youtube.com/watch?v=kdvVwGrV7ec"
+			],
+			"description": "Introduction to Solidity, what is solidity?, where is solidity used?"
+		}
+	]
 }
