@@ -1,3 +1,4 @@
 {
-	"Engineering": ["InformationScience", "ComputerScience"]
+	"Engineering": ["InformationScience", "ComputerScience"],
+	"Medical": ["Ayurvedic","Homeopathic"]
 }
