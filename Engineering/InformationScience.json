@@ -18,9 +18,9 @@
 			]
 		},
 		{
-			"name": "DATA SCIENCE",
+			"name": "Data Science",
 			"links": [],
-			"Chapters": [
+			"chapters": [
 				{
 					"name": "Introduction Big data overview",
 					"links": [],
@@ -51,7 +51,7 @@
 		{
 			"name": "Robotics Process Automation",
 			"links": [],
-			"Chapters": [
+			"chapters": [
 				{
 					"name": "PROGRAMMING BASICS & RECAP",
 					"links": [],
