@@ -55,6 +55,6 @@
 }
 ```
 
-- The chapter array can contain n number of chapter objects.
+- The chapters array can contain n number of chapter objects.
 
 ### Thankyou for your contributions!
