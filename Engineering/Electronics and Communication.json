@@ -25,7 +25,7 @@
 					"description": "Introduction; circuit families: ratioed circuits: pseudonMOS, Cascode Voltage Switch Logic (CVSL), dynamic circuits, Domino logic, passtransistor circuits, Bi-CMOS circuits. Sequential MOS Logic Circuits: Introduction, behavior of bi-stable elements, SR latch circuits, clocked latch and flip flop circuits, CMOS D-latch and edge triggered flip-flop. Case Study: Designing of Logical Gates/Circuits, with Different CMOS Logic Structures."
 				},
 				{
-					"name": "CAD Systems and Algorithms: ",
+					"name": "CAD Systems and Algorithms",
 					"links": [],
 					"description": ": Introduction, CAD systems, switch level simulation, layout synthesis, layout analysis, timing and optimization, logic synthesis, test generation sequential machine optimizations. scheduling and binding, hardware/software co-design. Case Study: - Switch Level Simulation, K – L Partitioning Algorithm."
 				}
