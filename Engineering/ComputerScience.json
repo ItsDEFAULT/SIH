@@ -6,7 +6,7 @@
 				"https://www.youtube.com/watch?v=M576WGiDBdQ",
 				"https://www.youtube.com/watch?v=coQ5dg8wM2o"
 			],
-			"objctives": "Blockchain objectives",
+			"objectives": "Blockchain objectives",
 			"outcomes": "Blockchain Outcomes",
 			"credits": 3,
 			"chapters": [
@@ -26,7 +26,7 @@
 			"name": "Artificial Intelligence and Machine Learning",
 			"links": [],
 			"credits": 3,
-			"objctives": "Artificial Intelligence and Machine Learning Objectives",
+			"objectives": "Artificial Intelligence and Machine Learning Objectives",
 			"outcomes": "Artificial Intelligence and Machine Learning Outcomes",
 			"chapters": [
 				{
@@ -70,7 +70,7 @@
 			"name": "Embedded Systems and IoT",
 			"links": [],
 			"credits": 3,
-			"objctives": "Artificial Intelligence and Machine Learning Objectives",
+			"objectives": "Artificial Intelligence and Machine Learning Objectives",
 			"outcomes": "Artificial Intelligence and Machine Learning Outcomes",
 			"chapters": [
 				{
