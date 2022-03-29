@@ -109,6 +109,47 @@
 					"level": "Advanced"
 				}
 			]
-		}
+		},
+		{
+    "name": "DATA STRUCTURES WITH C",
+    "links": ["NPTELcourse link : https://nptel.ac.in/courses/106102064/", "SWAYAM course link: https://swayam.gov.in/course/1407-programming-and-data-structures edx", "Course link: https://www.edx.org/course/data-structures-fundamentals"],
+    "objectives":"1. To learn the fundamentals of data structure and realize their importance in designing variety of applications. \n2.To illustrate the implementation of data structures such as stack, queue and linked list and to apply tem for the given problem. \n3To introduce non linear data structures like Binary Tree, Heap, AVL tree and their applications and also to provide insight of advanced searching techniques like Hashing. \n4.To create and use appropriate data structures for solving real life problems.",
+    "outcomes":"1. Explore the fundamental concepts of various data structures. \n2. Analyze and represent various data structures. \n3. Design algorithms for different data structures like Stack, Queue, List, Tree and Hashing. \n4. Develop programs with suitable data structures based on requirements of real world applications.",
+    "credits": 3,
+    "level": "Intermediate",
+    "chapters": [
+{
+    "name": "Pointers, Structures:",
+    "links": [],
+    "description": "Introduction to Pointers, Pointers and Arrays, Pointers to Pointers, Pointers to functions, Dynamic memory management in C (malloc(), calloc(), free() and realloc() functions). Introduction to Structures, Declaration, Initialization, Accessing Structures, Internal implementation of Structures, Union and its Definition. \nSelf-learning topics :Enumerations.",
+    "duration": "8 hours"
+},
+{
+    "name": "Files, Linked lists:",
+    "links": [],
+    "description": "Files in C: Text input output with respect to files in C, Basic file handling functions in C. \nGeneral linear lists: Basic operations, Implementation, List ADT. Complex implementations: circular linked lists, doubly linked lists.",
+    "duration": "8 hours"
+},
+{
+    "name": "Stacks & Queues:",
+    "links": [],
+    "description": "Stacks:Basic Stack operations, Stack ADT,Stack linked list Implementation,Stack applications:Conversion of Expression (Infix to Postfix), Evaluation of Expressions. Queues: Queues, Queue ADT, Circular Queues Linked list design, Queue applications. \nSelf-learning topics: Implementation of stacks and queues using arrays",
+    "duration": "8 hours"
+},
+{
+    "name": "Trees:",
+    "links": [],
+    "description": "Basictree concepts, Binary trees, Binary search tree ADT, general trees, Binary search tree (BST) concept, BST operations, BST Applications, AVL trees basic concepts.",
+    "duration": "8 hours"
+},
+{
+    "name": "Heaps and Hashing:",
+    "links": [],
+    "description": "Heap: Basic concepts, Heap implementation, Heap ADT, Heap applications. \nHashing: Basic concept, Hashing methods, collision resolution.",
+    "duration": "8 hours"
+}
+    ]
+
+}
 	]
 }
