@@ -126,35 +126,35 @@
 					"name": "Pointers, Structures",
 					"links": [],
 					"description": "Introduction to Pointers, Pointers and Arrays, Pointers to Pointers, Pointers to functions, Dynamic memory management in C (malloc(), calloc(), free() and realloc() functions). Introduction to Structures, Declaration, Initialization, Accessing Structures, Internal implementation of Structures, Union and its Definition. \nSelf-learning topics :Enumerations.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Intermediate"
 				},
 				{
 					"name": "Files, Linked lists",
 					"links": [],
 					"description": "Files in C: Text input output with respect to files in C, Basic file handling functions in C. \nGeneral linear lists: Basic operations, Implementation, List ADT. Complex implementations: circular linked lists, doubly linked lists.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Intermediate"
 				},
 				{
 					"name": "Stacks & Queues",
 					"links": [],
 					"description": "Stacks:Basic Stack operations, Stack ADT,Stack linked list Implementation,Stack applications:Conversion of Expression (Infix to Postfix), Evaluation of Expressions. Queues: Queues, Queue ADT, Circular Queues Linked list design, Queue applications. \nSelf-learning topics: Implementation of stacks and queues using arrays",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Basic"
 				},
 				{
 					"name": "Trees",
 					"links": [],
 					"description": "Basictree concepts, Binary trees, Binary search tree ADT, general trees, Binary search tree (BST) concept, BST operations, BST Applications, AVL trees basic concepts.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Basic"
 				},
 				{
 					"name": "Heaps and Hashing",
 					"links": [],
 					"description": "Heap: Basic concepts, Heap implementation, Heap ADT, Heap applications. \nHashing: Basic concept, Hashing methods, collision resolution.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Advanced"
 				}
 			]
@@ -169,35 +169,35 @@
 					"name": "OOP Paradigm, Java basics and Classes and Objects",
 					"links": [],
 					"description": "The key attributes of object-oriented programming.\nJava basics: The Java language, JDK, arrays, multidimensional arrays, alternative array declaration, assigning array references, using the length member, the for-each loop, Strings, using the command line arguments.\nIntroducing classes and objects: Class fundamentals, how objects are created, reference variables and assignment.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Intermediate"
 				},
 				{
 					"name": "Methods and classes",
 					"links": [],
 					"description": "Methods, returning from a method, returning a value, using parameters, constructors, parameterized constructors, the new operator revisited, garbage collection and finalizers, this keyword. controlling access to class members, pass objects to methods, argument passing, returning objects, method overloading, recursion, static, nested and inner classes, varargs.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Basic"
 				},
 				{
 					"name": "Inheritance and Interfaces",
 					"links": [],
 					"description": "Inheritance: Inheritance basics, member access and inheritance, constructors and inheritance, using super, multilevel hierarchy, when are constructors executed, superclass reference and subclass objects, method overriding, polymorphism, using abstract classes, using final, the Object class.    \nInterfaces: interface fundamentals, creating, implementing and using interfaces, implementing multiple interfaces, constants in interfaces, extending interfaces and nested interfaces.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Basic"
 				},
 				{
 					"name": "Packages, Exception handling and String Handling",
 					"links": [],
 					"description": "Packages: Package fundamentals, packages and member access, importing packages, static import.\nException handling: the exception hierarchy, exception handling fundamentals, uncaught exceptions, handle errors gracefully, multiple catch, catching subclass exceptions, nested try, throwing exception, throwable, using finally and throws, built-in exceptions, new exception features in JDK7, creating exception subclasses.\nString Handling: String fundamentals, constructors, String related language features, length(), obtaining characters within a String, String comparison, indexOf() and lastIndexOf(), obtaining a modified String, Changing Case, StringBuffer and StringBuilder.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Intermediate"
 				},
 				{
 					"name": "Swing fundamentals and Swing Controls",
 					"links": [],
 					"description": "Swing fundamentals: origins and design philosophy, components and containers, layout managers, event handling, push button, JTextField, anonymous inner classes.\nSwing Controls: JLabel and ImageIcon, Swing Buttons, Trees.",
-					"duration": "8 hours",
+					"duration": 8,
 					"level": "Intermediate"
 				}
 			]
