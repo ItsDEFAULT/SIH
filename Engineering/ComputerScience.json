@@ -111,92 +111,88 @@
 			]
 		},
 		{
-    "name": "DATA STRUCTURES WITH C",
-    "links": ["NPTELcourse link : https://nptel.ac.in/courses/106102064/", "SWAYAM course link: https://swayam.gov.in/course/1407-programming-and-data-structures edx", "Course link: https://www.edx.org/course/data-structures-fundamentals"],
-    "objectives":"1. To learn the fundamentals of data structure and realize their importance in designing variety of applications. \n2.To illustrate the implementation of data structures such as stack, queue and linked list and to apply tem for the given problem. \n3To introduce non linear data structures like Binary Tree, Heap, AVL tree and their applications and also to provide insight of advanced searching techniques like Hashing. \n4.To create and use appropriate data structures for solving real life problems.",
-    "outcomes":"1. Explore the fundamental concepts of various data structures. \n2. Analyze and represent various data structures. \n3. Design algorithms for different data structures like Stack, Queue, List, Tree and Hashing. \n4. Develop programs with suitable data structures based on requirements of real world applications.",
-    "credits": 3,
-    "level": "Intermediate",
-    "chapters": [
-{
-    "name": "Pointers, Structures:",
-    "links": [],
-    "description": "Introduction to Pointers, Pointers and Arrays, Pointers to Pointers, Pointers to functions, Dynamic memory management in C (malloc(), calloc(), free() and realloc() functions). Introduction to Structures, Declaration, Initialization, Accessing Structures, Internal implementation of Structures, Union and its Definition. \nSelf-learning topics :Enumerations.",
-    "duration": "8 hours"
-},
-{
-    "name": "Files, Linked lists:",
-    "links": [],
-    "description": "Files in C: Text input output with respect to files in C, Basic file handling functions in C. \nGeneral linear lists: Basic operations, Implementation, List ADT. Complex implementations: circular linked lists, doubly linked lists.",
-    "duration": "8 hours"
-},
-{
-    "name": "Stacks & Queues:",
-    "links": [],
-    "description": "Stacks:Basic Stack operations, Stack ADT,Stack linked list Implementation,Stack applications:Conversion of Expression (Infix to Postfix), Evaluation of Expressions. Queues: Queues, Queue ADT, Circular Queues Linked list design, Queue applications. \nSelf-learning topics: Implementation of stacks and queues using arrays",
-    "duration": "8 hours"
-},
-{
-    "name": "Trees:",
-    "links": [],
-    "description": "Basictree concepts, Binary trees, Binary search tree ADT, general trees, Binary search tree (BST) concept, BST operations, BST Applications, AVL trees basic concepts.",
-    "duration": "8 hours"
-},
-{
-    "name": "Heaps and Hashing:",
-    "links": [],
-    "description": "Heap: Basic concepts, Heap implementation, Heap ADT, Heap applications. \nHashing: Basic concept, Hashing methods, collision resolution.",
-    "duration": "8 hours"
-}
-    ]
-
-},
+			"name": "DATA STRUCTURES WITH C",
+			"links": [
+				"NPTELcourse link : https://nptel.ac.in/courses/106102064/",
+				"SWAYAM course link: https://swayam.gov.in/course/1407-programming-and-data-structures edx",
+				"Course link: https://www.edx.org/course/data-structures-fundamentals"
+			],
+			"objectives": "1. To learn the fundamentals of data structure and realize their importance in designing variety of applications. \n2.To illustrate the implementation of data structures such as stack, queue and linked list and to apply tem for the given problem. \n3To introduce non linear data structures like Binary Tree, Heap, AVL tree and their applications and also to provide insight of advanced searching techniques like Hashing. \n4.To create and use appropriate data structures for solving real life problems.",
+			"outcomes": "1. Explore the fundamental concepts of various data structures. \n2. Analyze and represent various data structures. \n3. Design algorithms for different data structures like Stack, Queue, List, Tree and Hashing. \n4. Develop programs with suitable data structures based on requirements of real world applications.",
+			"credits": 3,
+			"level": "Intermediate",
+			"chapters": [
+				{
+					"name": "Pointers, Structures:",
+					"links": [],
+					"description": "Introduction to Pointers, Pointers and Arrays, Pointers to Pointers, Pointers to functions, Dynamic memory management in C (malloc(), calloc(), free() and realloc() functions). Introduction to Structures, Declaration, Initialization, Accessing Structures, Internal implementation of Structures, Union and its Definition. \nSelf-learning topics :Enumerations.",
+					"duration": "8 hours"
+				},
+				{
+					"name": "Files, Linked lists:",
+					"links": [],
+					"description": "Files in C: Text input output with respect to files in C, Basic file handling functions in C. \nGeneral linear lists: Basic operations, Implementation, List ADT. Complex implementations: circular linked lists, doubly linked lists.",
+					"duration": "8 hours"
+				},
+				{
+					"name": "Stacks & Queues:",
+					"links": [],
+					"description": "Stacks:Basic Stack operations, Stack ADT,Stack linked list Implementation,Stack applications:Conversion of Expression (Infix to Postfix), Evaluation of Expressions. Queues: Queues, Queue ADT, Circular Queues Linked list design, Queue applications. \nSelf-learning topics: Implementation of stacks and queues using arrays",
+					"duration": "8 hours"
+				},
+				{
+					"name": "Trees:",
+					"links": [],
+					"description": "Basictree concepts, Binary trees, Binary search tree ADT, general trees, Binary search tree (BST) concept, BST operations, BST Applications, AVL trees basic concepts.",
+					"duration": "8 hours"
+				},
+				{
+					"name": "Heaps and Hashing:",
+					"links": [],
+					"description": "Heap: Basic concepts, Heap implementation, Heap ADT, Heap applications. \nHashing: Basic concept, Hashing methods, collision resolution.",
+					"duration": "8 hours"
+				}
+			]
+		},
 		{
-    "name": "Object Oriented Programming with Java",
-    "links": [],
-    "objectives": "1. Understand the fundamentals of object-oriented programming in Java. \n2. Demonstrate the features of object-oriented programming such as encapsulation, inheritance and polymorphism to design and develop programs in Java. \n3. Understand exception handling mechanism supported in Java to handle run time errors. \n4. Understand the concept of packages and interfaces in Java. \n5. To introduce the design of Graphical User Interface (GUI) programming through Java Swing.",
-    "outcomes": "1. Identify classes, objects, members of a class and relationships among them needed for a specific problem \n2. Write Java application programs using OOP principles and proper program structuring \n3. Demonstrate the concepts of polymorphism and inheritance. \n4. Write Java programs to implement error handling techniques using exception handling. \n5. Create and design GUI using Java Swing.",
-    "credits": 3,
-    "level": "Advanced",
-    "chapters": [
-{
-    "name": "OOP Paradigm, Java basics and Classes and Objects:",
-    "links": [],
-    "description": "The key attributes of object-oriented programming.
-    \nJava basics: The Java language, JDK, arrays, multidimensional arrays, alternative array declaration, assigning array references, using the length member, the for-each loop, Strings, using the command line arguments.
-    \nIntroducing classes and objects: Class fundamentals, how objects are created, reference variables and assignment.",
-    "duration": "8 hours"
-},
-{
-    "name": "Methods and classes:",
-    "links": [],
-    "description": "Methods, returning from a method, returning a value, using parameters, constructors, parameterized constructors, the new operator revisited, garbage collection and finalizers, this keyword. controlling access to class members, pass objects to methods, argument passing, returning objects, method overloading, recursion, static, nested and inner classes, varargs.",
-    "duration": "8 hours"
-},
-{
-    "name": "Inheritance and Interfaces:",
-    "links": [],
-    "description": "Inheritance: Inheritance basics, member access and inheritance, constructors and inheritance, using super, multilevel hierarchy, when are constructors executed, superclass reference and subclass objects, method overriding, polymorphism, using abstract classes, using final, the Object class.
-    \nInterfaces: interface fundamentals, creating, implementing and using interfaces, implementing multiple interfaces, constants in interfaces, extending interfaces and nested interfaces.",
-    "duration": "8 hours"
-},
-{
-    "name": "Packages, Exception handling and String Handling",
-    "links": [],
-    "description": "Packages: Package fundamentals, packages and member access, importing packages, static import.
-    \nException handling: the exception hierarchy, exception handling fundamentals, uncaught exceptions, handle errors gracefully, multiple catch, catching subclass exceptions, nested try, throwing exception, throwable, using finally and throws, built-in exceptions, new exception features in JDK7, creating exception subclasses.
-    \nString Handling: String fundamentals, constructors, String related language features, length(), obtaining characters within a String, String comparison, indexOf() and lastIndexOf(), obtaining a modified String, Changing Case, StringBuffer and StringBuilder.",
-    "duration": "8 hours"
-},
-{
-    "name": "Swing fundamentals and Swing Controls",
-    "links": [],
-    "description": "Swing fundamentals: origins and design philosophy, components and containers, layout managers, event handling, push button, JTextField, anonymous inner classes.
-    \nSwing Controls: JLabel and ImageIcon, Swing Buttons, Trees.",
-    "duration": "8 hours"
-}
-    ]
-}
-
+			"name": "Object Oriented Programming with Java",
+			"links": [],
+			"objectives": "1. Understand the fundamentals of object-oriented programming in Java. \n2. Demonstrate the features of object-oriented programming such as encapsulation, inheritance and polymorphism to design and develop programs in Java. \n3. Understand exception handling mechanism supported in Java to handle run time errors. \n4. Understand the concept of packages and interfaces in Java. \n5. To introduce the design of Graphical User Interface (GUI) programming through Java Swing.",
+			"outcomes": "1. Identify classes, objects, members of a class and relationships among them needed for a specific problem \n2. Write Java application programs using OOP principles and proper program structuring \n3. Demonstrate the concepts of polymorphism and inheritance. \n4. Write Java programs to implement error handling techniques using exception handling. \n5. Create and design GUI using Java Swing.",
+			"credits": 3,
+			"level": "Advanced",
+			"chapters": [
+				{
+					"name": "OOP Paradigm, Java basics and Classes and Objects:",
+					"links": [],
+					"description": "The key attributes of object-oriented programming.\nJava basics: The Java language, JDK, arrays, multidimensional arrays, alternative array declaration, assigning array references, using the length member, the for-each loop, Strings, using the command line arguments.\nIntroducing classes and objects: Class fundamentals, how objects are created, reference variables and assignment.",
+					"duration": "8 hours"
+				},
+				{
+					"name": "Methods and classes:",
+					"links": [],
+					"description": "Methods, returning from a method, returning a value, using parameters, constructors, parameterized constructors, the new operator revisited, garbage collection and finalizers, this keyword. controlling access to class members, pass objects to methods, argument passing, returning objects, method overloading, recursion, static, nested and inner classes, varargs.",
+					"duration": "8 hours"
+				},
+				{
+					"name": "Inheritance and Interfaces:",
+					"links": [],
+					"description": "Inheritance: Inheritance basics, member access and inheritance, constructors and inheritance, using super, multilevel hierarchy, when are constructors executed, superclass reference and subclass objects, method overriding, polymorphism, using abstract classes, using final, the Object class.    \nInterfaces: interface fundamentals, creating, implementing and using interfaces, implementing multiple interfaces, constants in interfaces, extending interfaces and nested interfaces.",
+					"duration": "8 hours"
+				},
+				{
+					"name": "Packages, Exception handling and String Handling",
+					"links": [],
+					"description": "Packages: Package fundamentals, packages and member access, importing packages, static import.\nException handling: the exception hierarchy, exception handling fundamentals, uncaught exceptions, handle errors gracefully, multiple catch, catching subclass exceptions, nested try, throwing exception, throwable, using finally and throws, built-in exceptions, new exception features in JDK7, creating exception subclasses.\nString Handling: String fundamentals, constructors, String related language features, length(), obtaining characters within a String, String comparison, indexOf() and lastIndexOf(), obtaining a modified String, Changing Case, StringBuffer and StringBuilder.",
+					"duration": "8 hours"
+				},
+				{
+					"name": "Swing fundamentals and Swing Controls",
+					"links": [],
+					"description": "Swing fundamentals: origins and design philosophy, components and containers, layout managers, event handling, push button, JTextField, anonymous inner classes.\nSwing Controls: JLabel and ImageIcon, Swing Buttons, Trees.",
+					"duration": "8 hours"
+				}
+			]
+		}
 	]
 }
